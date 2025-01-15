@@ -1,0 +1,1706 @@
+{
+  "nodes": [
+    {
+      "game": "Counter-Strike 2",
+      "popularity": "1,489,929",
+      "price": "Free To Play"
+    },
+    {
+      "game": "PUBG: BATTLEGROUNDS",
+      "popularity": "765,150",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Dota 2",
+      "popularity": "715,295",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Marvel Rivals",
+      "popularity": "565,653",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Path of Exile 2",
+      "popularity": "288,757",
+      "price": "\u00a323.93"
+    },
+    {
+      "game": "Grand Theft Auto V",
+      "popularity": "207,117",
+      "price": "\u00a314.80"
+    },
+    {
+      "game": "NARAKA: BLADEPOINT",
+      "popularity": "208,643",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Rust",
+      "popularity": "205,358",
+      "price": "\u00a334.99"
+    },
+    {
+      "game": "Palworld",
+      "popularity": "165,613",
+      "price": "\u00a324.99"
+    },
+    {
+      "game": "Apex Legends\u2122",
+      "popularity": "151,447",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Wallpaper Engine",
+      "popularity": "144,523",
+      "price": "\u00a34.29"
+    },
+    {
+      "game": "Stardew Valley",
+      "popularity": "119,555",
+      "price": "\u00a310.99"
+    },
+    {
+      "game": "Delta Force",
+      "popularity": "111,888",
+      "price": "Free To Play"
+    },
+    {
+      "game": "War Thunder",
+      "popularity": "95,217",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Baldur's Gate 3",
+      "popularity": "108,839",
+      "price": "\u00a349.99"
+    },
+    {
+      "game": "Football Manager 2024",
+      "popularity": "76,937",
+      "price": "\u00a317.99"
+    },
+    {
+      "game": "ELDEN RING",
+      "popularity": "75,579",
+      "price": "\u00a349.99"
+    },
+    {
+      "game": "Warframe",
+      "popularity": "74,364",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Sid Meier\u2019s Civilization\u00ae VI",
+      "popularity": "74,651",
+      "price": "\u00a349.99"
+    },
+    {
+      "game": "Tom Clancy's Rainbow Six\u00ae Siege",
+      "popularity": "81,646",
+      "price": "\u00a317.99"
+    },
+    {
+      "game": "EA SPORTS FC\u2122 25",
+      "popularity": "76,470",
+      "price": "\u00a336.00"
+    },
+    {
+      "game": "Black Myth: Wukong",
+      "popularity": "72,614",
+      "price": "\u00a349.99"
+    },
+    {
+      "game": "Banana",
+      "popularity": "101,034",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Call of Duty\u00ae",
+      "popularity": "92,839",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Hearts of Iron IV",
+      "popularity": "65,512",
+      "price": "\u00a341.99"
+    },
+    {
+      "game": "Crosshair X",
+      "popularity": "75,293",
+      "price": "\u00a35.49"
+    },
+    {
+      "game": "HELLDIVERS\u2122 2",
+      "popularity": "81,203",
+      "price": "\u00a334.99"
+    },
+    {
+      "game": "Don't Starve Together",
+      "popularity": "60,622",
+      "price": "\u00a310.99"
+    },
+    {
+      "game": "Cyberpunk 2077",
+      "popularity": "60,496",
+      "price": "\u00a349.99"
+    },
+    {
+      "game": "Euro Truck Simulator 2",
+      "popularity": "57,166",
+      "price": "\u00a316.89"
+    },
+    {
+      "game": "Team Fortress 2",
+      "popularity": "78,156",
+      "price": "Free To Play"
+    },
+    {
+      "game": "DayZ",
+      "popularity": "68,335",
+      "price": "\u00a339.99"
+    },
+    {
+      "game": "Red Dead Redemption 2",
+      "popularity": "52,376",
+      "price": "\u00a359.99"
+    },
+    {
+      "game": "Monster Hunter: World",
+      "popularity": "51,784",
+      "price": "\u00a324.99"
+    },
+    {
+      "game": "Crab Game",
+      "popularity": "49,337",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Project Zomboid",
+      "popularity": "51,888",
+      "price": "\u00a316.75"
+    },
+    {
+      "game": "VRChat",
+      "popularity": "57,752",
+      "price": "Free To Play"
+    },
+    {
+      "game": "tModLoader",
+      "popularity": "44,397",
+      "price": "Free To Play"
+    },
+    {
+      "game": "ARK: Survival Evolved",
+      "popularity": "42,573",
+      "price": "\u00a312.79"
+    },
+    {
+      "game": "Farming Simulator 25",
+      "popularity": "45,740",
+      "price": "\u00a342.42"
+    },
+    {
+      "game": "7 Days to Die",
+      "popularity": "41,759",
+      "price": "\u00a337.99"
+    },
+    {
+      "game": "Terraria",
+      "popularity": "42,137",
+      "price": "\u00a38.50"
+    },
+    {
+      "game": "The Binding of Isaac: Rebirth",
+      "popularity": "42,003",
+      "price": "\u00a310.99"
+    },
+    {
+      "game": "Dead by Daylight",
+      "popularity": "40,314",
+      "price": "\u00a314.99"
+    },
+    {
+      "game": "Once Human",
+      "popularity": "39,600",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Mount & Blade II: Bannerlord",
+      "popularity": "39,315",
+      "price": "\u00a342.99"
+    },
+    {
+      "game": "It Takes Two",
+      "popularity": "42,135",
+      "price": "\u00a334.99"
+    },
+    {
+      "game": "The Witcher 3: Wild Hunt",
+      "popularity": "38,123",
+      "price": "\u00a324.99"
+    },
+    {
+      "game": "THRONE AND LIBERTY",
+      "popularity": "51,776",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Total War: WARHAMMER III",
+      "popularity": "38,122",
+      "price": "\u00a349.99"
+    },
+    {
+      "game": "The Sims\u2122 4",
+      "popularity": "47,186",
+      "price": "Free To Play"
+    },
+    {
+      "game": "The Forest",
+      "popularity": "40,813",
+      "price": "\u00a315.49"
+    },
+    {
+      "game": "Lost Ark",
+      "popularity": "37,782",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Factorio",
+      "popularity": "40,246",
+      "price": "\u00a330.00"
+    },
+    {
+      "game": "ARK: Survival Ascended",
+      "popularity": "36,555",
+      "price": "\u00a337.99"
+    },
+    {
+      "game": "Valheim",
+      "popularity": "45,234",
+      "price": "\u00a315.49"
+    },
+    {
+      "game": "NBA 2K25",
+      "popularity": "32,688",
+      "price": "\u00a333.74"
+    },
+    {
+      "game": "Left 4 Dead 2",
+      "popularity": "39,500",
+      "price": "\u00a38.50"
+    },
+    {
+      "game": "The Elder Scrolls V: Skyrim Special Edition",
+      "popularity": "40,255",
+      "price": "\u00a334.99"
+    },
+    {
+      "game": "PAYDAY 2",
+      "popularity": "34,608",
+      "price": "\u00a38.50"
+    },
+    {
+      "game": "RimWorld",
+      "popularity": "30,278",
+      "price": "\u00a328.49"
+    },
+    {
+      "game": "Balatro",
+      "popularity": "42,363",
+      "price": "\u00a312.79"
+    },
+    {
+      "game": "Goose Goose Duck",
+      "popularity": "29,599",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Garry's Mod",
+      "popularity": "36,634",
+      "price": "\u00a36.99"
+    },
+    {
+      "game": "Hogwarts Legacy",
+      "popularity": "29,273",
+      "price": "\u00a349.99"
+    },
+    {
+      "game": "Sons Of The Forest",
+      "popularity": "28,142",
+      "price": "\u00a324.99"
+    },
+    {
+      "game": "Satisfactory",
+      "popularity": "32,924",
+      "price": "\u00a333.50"
+    },
+    {
+      "game": "Overwatch\u00ae 2",
+      "popularity": "27,800",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Hunt: Showdown 1896",
+      "popularity": "25,464",
+      "price": "\u00a325.99"
+    },
+    {
+      "game": "Age of Empires II: Definitive Edition",
+      "popularity": "27,919",
+      "price": "\u00a325.99"
+    },
+    {
+      "game": "Squad",
+      "popularity": "25,392",
+      "price": "\u00a339.99"
+    },
+    {
+      "game": "Street Fighter\u2122 6",
+      "popularity": "25,963",
+      "price": "\u00a349.99"
+    },
+    {
+      "game": "Crusader Kings III",
+      "popularity": "25,998",
+      "price": "\u00a341.99"
+    },
+    {
+      "game": "Black Desert",
+      "popularity": "25,041",
+      "price": "\u00a38.99"
+    },
+    {
+      "game": "SCUM",
+      "popularity": "23,643",
+      "price": "\u00a316.74"
+    },
+    {
+      "game": "Stellaris",
+      "popularity": "25,166",
+      "price": "\u00a334.99"
+    },
+    {
+      "game": "STALCRAFT: X",
+      "popularity": "25,652",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Desktop Mate",
+      "popularity": "23,229",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Europa Universalis IV",
+      "popularity": "23,697",
+      "price": "\u00a341.99"
+    },
+    {
+      "game": "Limbus Company",
+      "popularity": "27,691",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Yu-Gi-Oh! Master Duel",
+      "popularity": "23,178",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Russian Fishing 4",
+      "popularity": "21,909",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Phasmophobia",
+      "popularity": "42,571",
+      "price": "\u00a316.75"
+    },
+    {
+      "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "popularity": "23,902",
+      "price": "\u00a349.99"
+    },
+    {
+      "game": "BeamNG.drive",
+      "popularity": "28,260",
+      "price": "\u00a319.20"
+    },
+    {
+      "game": "Battlefield\u2122 V",
+      "popularity": "22,694",
+      "price": "\u00a344.99"
+    },
+    {
+      "game": "Eternal Return",
+      "popularity": "21,182",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Lethal Company",
+      "popularity": "27,805",
+      "price": "\u00a38.50"
+    },
+    {
+      "game": "Destiny 2",
+      "popularity": "25,154",
+      "price": "Free To Play"
+    },
+    {
+      "game": "OBS Studio",
+      "popularity": "20,863",
+      "price": "Free To Play"
+    },
+    {
+      "game": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal",
+      "popularity": "20,129",
+      "price": "\u00a315.49"
+    },
+    {
+      "game": "Soundpad",
+      "popularity": "23,991",
+      "price": "\u00a34.29"
+    },
+    {
+      "game": "MIR4",
+      "popularity": "18,961",
+      "price": "Free To Play"
+    },
+    {
+      "game": "Forza Horizon 5",
+      "popularity": "19,100",
+      "price": "\u00a349.99"
+    },
+    {
+      "game": "Slay the Spire",
+      "popularity": "18,767",
+      "price": "\u00a319.99"
+    },
+    {
+      "game": "Sid Meier's Civilization\u00ae V",
+      "popularity": "21,754",
+      "price": "\u00a319.99"
+    },
+    {
+      "game": "Counter-Strike",
+      "popularity": "19,275",
+      "price": "\u00a37.19"
+    },
+    {
+      "game": "Cities: Skylines",
+      "popularity": "18,067",
+      "price": "\u00a324.99"
+    },
+    {
+      "game": "Fallout 4",
+      "popularity": "20,939",
+      "price": "\u00a315.99"
+    },
+    {
+      "game": "Unturned",
+      "popularity": "18,080",
+      "price": "Free To Play"
+    }
+  ],
+  "links": [
+    {
+      "source": "Counter-Strike 2",
+      "target": "Tom Clancy's Rainbow Six\u00ae Siege"
+    },
+    {
+      "source": "Counter-Strike 2",
+      "target": "Team Fortress 2"
+    },
+    {
+      "source": "Counter-Strike 2",
+      "target": "PUBG: BATTLEGROUNDS"
+    },
+    {
+      "source": "PUBG: BATTLEGROUNDS",
+      "target": "Counter-Strike 2"
+    },
+    {
+      "source": "PUBG: BATTLEGROUNDS",
+      "target": "Tom Clancy's Rainbow Six\u00ae Siege"
+    },
+    {
+      "source": "PUBG: BATTLEGROUNDS",
+      "target": "Overwatch\u00ae 2"
+    },
+    {
+      "source": "Dota 2",
+      "target": "PUBG: BATTLEGROUNDS"
+    },
+    {
+      "source": "Dota 2",
+      "target": "Counter-Strike 2"
+    },
+    {
+      "source": "Dota 2",
+      "target": "NARAKA: BLADEPOINT"
+    },
+    {
+      "source": "Marvel Rivals",
+      "target": "Crab Game"
+    },
+    {
+      "source": "Marvel Rivals",
+      "target": "Tom Clancy's Rainbow Six\u00ae Siege"
+    },
+    {
+      "source": "Marvel Rivals",
+      "target": "Team Fortress 2"
+    },
+    {
+      "source": "Path of Exile 2",
+      "target": "It Takes Two"
+    },
+    {
+      "source": "Path of Exile 2",
+      "target": "Overwatch\u00ae 2"
+    },
+    {
+      "source": "Path of Exile 2",
+      "target": "Lethal Company"
+    },
+    {
+      "source": "Grand Theft Auto V",
+      "target": "HELLDIVERS\u2122 2"
+    },
+    {
+      "source": "Grand Theft Auto V",
+      "target": "Lost Ark"
+    },
+    {
+      "source": "Grand Theft Auto V",
+      "target": "PAYDAY 2"
+    },
+    {
+      "source": "NARAKA: BLADEPOINT",
+      "target": "Dota 2"
+    },
+    {
+      "source": "NARAKA: BLADEPOINT",
+      "target": "Cities: Skylines"
+    },
+    {
+      "source": "NARAKA: BLADEPOINT",
+      "target": "Left 4 Dead 2"
+    },
+    {
+      "source": "Rust",
+      "target": "Sons Of The Forest"
+    },
+    {
+      "source": "Rust",
+      "target": "Satisfactory"
+    },
+    {
+      "source": "Rust",
+      "target": "Garry's Mod"
+    },
+    {
+      "source": "Palworld",
+      "target": "Hearts of Iron IV"
+    },
+    {
+      "source": "Palworld",
+      "target": "Hogwarts Legacy"
+    },
+    {
+      "source": "Palworld",
+      "target": "Mount & Blade II: Bannerlord"
+    },
+    {
+      "source": "Apex Legends\u2122",
+      "target": "Overwatch\u00ae 2"
+    },
+    {
+      "source": "Apex Legends\u2122",
+      "target": "Team Fortress 2"
+    },
+    {
+      "source": "Apex Legends\u2122",
+      "target": "STALCRAFT: X"
+    },
+    {
+      "source": "Wallpaper Engine",
+      "target": "Crosshair X"
+    },
+    {
+      "source": "Wallpaper Engine",
+      "target": "Sons Of The Forest"
+    },
+    {
+      "source": "Wallpaper Engine",
+      "target": "Rust"
+    },
+    {
+      "source": "Stardew Valley",
+      "target": "tModLoader"
+    },
+    {
+      "source": "Stardew Valley",
+      "target": "Banana"
+    },
+    {
+      "source": "Stardew Valley",
+      "target": "Factorio"
+    },
+    {
+      "source": "Delta Force",
+      "target": "It Takes Two"
+    },
+    {
+      "source": "Delta Force",
+      "target": "BeamNG.drive"
+    },
+    {
+      "source": "Delta Force",
+      "target": "Euro Truck Simulator 2"
+    },
+    {
+      "source": "War Thunder",
+      "target": "SCUM"
+    },
+    {
+      "source": "War Thunder",
+      "target": "Squad"
+    },
+    {
+      "source": "War Thunder",
+      "target": "Phasmophobia"
+    },
+    {
+      "source": "Baldur's Gate 3",
+      "target": "Lost Ark"
+    },
+    {
+      "source": "Baldur's Gate 3",
+      "target": "PAYDAY 2"
+    },
+    {
+      "source": "Baldur's Gate 3",
+      "target": "Destiny 2"
+    },
+    {
+      "source": "Football Manager 2024",
+      "target": "Yu-Gi-Oh! Master Duel"
+    },
+    {
+      "source": "Football Manager 2024",
+      "target": "Farming Simulator 25"
+    },
+    {
+      "source": "Football Manager 2024",
+      "target": "BeamNG.drive"
+    },
+    {
+      "source": "ELDEN RING",
+      "target": "Fallout 4"
+    },
+    {
+      "source": "ELDEN RING",
+      "target": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+    },
+    {
+      "source": "ELDEN RING",
+      "target": "The Elder Scrolls V: Skyrim Special Edition"
+    },
+    {
+      "source": "Warframe",
+      "target": "Lost Ark"
+    },
+    {
+      "source": "Warframe",
+      "target": "Call of Duty\u00ae"
+    },
+    {
+      "source": "Warframe",
+      "target": "The Witcher 3: Wild Hunt"
+    },
+    {
+      "source": "Sid Meier\u2019s Civilization\u00ae VI",
+      "target": "Sid Meier's Civilization\u00ae V"
+    },
+    {
+      "source": "Sid Meier\u2019s Civilization\u00ae VI",
+      "target": "Red Dead Redemption 2"
+    },
+    {
+      "source": "Sid Meier\u2019s Civilization\u00ae VI",
+      "target": "Mount & Blade II: Bannerlord"
+    },
+    {
+      "source": "Tom Clancy's Rainbow Six\u00ae Siege",
+      "target": "Once Human"
+    },
+    {
+      "source": "Tom Clancy's Rainbow Six\u00ae Siege",
+      "target": "Counter-Strike 2"
+    },
+    {
+      "source": "Tom Clancy's Rainbow Six\u00ae Siege",
+      "target": "PUBG: BATTLEGROUNDS"
+    },
+    {
+      "source": "EA SPORTS FC\u2122 25",
+      "target": "Garry's Mod"
+    },
+    {
+      "source": "EA SPORTS FC\u2122 25",
+      "target": "Team Fortress 2"
+    },
+    {
+      "source": "EA SPORTS FC\u2122 25",
+      "target": "Left 4 Dead 2"
+    },
+    {
+      "source": "Black Myth: Wukong",
+      "target": "Crab Game"
+    },
+    {
+      "source": "Black Myth: Wukong",
+      "target": "Black Desert"
+    },
+    {
+      "source": "Black Myth: Wukong",
+      "target": "Balatro"
+    },
+    {
+      "source": "Banana",
+      "target": "Don't Starve Together"
+    },
+    {
+      "source": "Banana",
+      "target": "Stardew Valley"
+    },
+    {
+      "source": "Banana",
+      "target": "tModLoader"
+    },
+    {
+      "source": "Call of Duty\u00ae",
+      "target": "Lost Ark"
+    },
+    {
+      "source": "Call of Duty\u00ae",
+      "target": "PAYDAY 2"
+    },
+    {
+      "source": "Call of Duty\u00ae",
+      "target": "Warframe"
+    },
+    {
+      "source": "Hearts of Iron IV",
+      "target": "Factorio"
+    },
+    {
+      "source": "Hearts of Iron IV",
+      "target": "Palworld"
+    },
+    {
+      "source": "Hearts of Iron IV",
+      "target": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal"
+    },
+    {
+      "source": "Crosshair X",
+      "target": "Wallpaper Engine"
+    },
+    {
+      "source": "Crosshair X",
+      "target": "Lethal Company"
+    },
+    {
+      "source": "Crosshair X",
+      "target": "BeamNG.drive"
+    },
+    {
+      "source": "HELLDIVERS\u2122 2",
+      "target": "Dead by Daylight"
+    },
+    {
+      "source": "HELLDIVERS\u2122 2",
+      "target": "Grand Theft Auto V"
+    },
+    {
+      "source": "HELLDIVERS\u2122 2",
+      "target": "Lost Ark"
+    },
+    {
+      "source": "Don't Starve Together",
+      "target": "Banana"
+    },
+    {
+      "source": "Don't Starve Together",
+      "target": "tModLoader"
+    },
+    {
+      "source": "Don't Starve Together",
+      "target": "Battlefield\u2122 V"
+    },
+    {
+      "source": "Cyberpunk 2077",
+      "target": "ELDEN RING"
+    },
+    {
+      "source": "Cyberpunk 2077",
+      "target": "Fallout 4"
+    },
+    {
+      "source": "Cyberpunk 2077",
+      "target": "Russian Fishing 4"
+    },
+    {
+      "source": "Euro Truck Simulator 2",
+      "target": "BeamNG.drive"
+    },
+    {
+      "source": "Euro Truck Simulator 2",
+      "target": "Hogwarts Legacy"
+    },
+    {
+      "source": "Euro Truck Simulator 2",
+      "target": "Farming Simulator 25"
+    },
+    {
+      "source": "Team Fortress 2",
+      "target": "Counter-Strike 2"
+    },
+    {
+      "source": "Team Fortress 2",
+      "target": "Tom Clancy's Rainbow Six\u00ae Siege"
+    },
+    {
+      "source": "Team Fortress 2",
+      "target": "PUBG: BATTLEGROUNDS"
+    },
+    {
+      "source": "DayZ",
+      "target": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+    },
+    {
+      "source": "DayZ",
+      "target": "Unturned"
+    },
+    {
+      "source": "DayZ",
+      "target": "Dead by Daylight"
+    },
+    {
+      "source": "Red Dead Redemption 2",
+      "target": "Mount & Blade II: Bannerlord"
+    },
+    {
+      "source": "Red Dead Redemption 2",
+      "target": "Team Fortress 2"
+    },
+    {
+      "source": "Red Dead Redemption 2",
+      "target": "Marvel Rivals"
+    },
+    {
+      "source": "Monster Hunter: World",
+      "target": "Hogwarts Legacy"
+    },
+    {
+      "source": "Monster Hunter: World",
+      "target": "Mount & Blade II: Bannerlord"
+    },
+    {
+      "source": "Monster Hunter: World",
+      "target": "VRChat"
+    },
+    {
+      "source": "Crab Game",
+      "target": "Marvel Rivals"
+    },
+    {
+      "source": "Crab Game",
+      "target": "Tom Clancy's Rainbow Six\u00ae Siege"
+    },
+    {
+      "source": "Crab Game",
+      "target": "Once Human"
+    },
+    {
+      "source": "Project Zomboid",
+      "target": "Terraria"
+    },
+    {
+      "source": "Project Zomboid",
+      "target": "Factorio"
+    },
+    {
+      "source": "Project Zomboid",
+      "target": "The Forest"
+    },
+    {
+      "source": "VRChat",
+      "target": "Battlefield\u2122 V"
+    },
+    {
+      "source": "VRChat",
+      "target": "Forza Horizon 5"
+    },
+    {
+      "source": "VRChat",
+      "target": "Mount & Blade II: Bannerlord"
+    },
+    {
+      "source": "tModLoader",
+      "target": "Terraria"
+    },
+    {
+      "source": "tModLoader",
+      "target": "Factorio"
+    },
+    {
+      "source": "tModLoader",
+      "target": "Stardew Valley"
+    },
+    {
+      "source": "ARK: Survival Evolved",
+      "target": "ARK: Survival Ascended"
+    },
+    {
+      "source": "ARK: Survival Evolved",
+      "target": "Satisfactory"
+    },
+    {
+      "source": "ARK: Survival Evolved",
+      "target": "Project Zomboid"
+    },
+    {
+      "source": "Farming Simulator 25",
+      "target": "Garry's Mod"
+    },
+    {
+      "source": "Farming Simulator 25",
+      "target": "Euro Truck Simulator 2"
+    },
+    {
+      "source": "Farming Simulator 25",
+      "target": "Rust"
+    },
+    {
+      "source": "7 Days to Die",
+      "target": "Lethal Company"
+    },
+    {
+      "source": "7 Days to Die",
+      "target": "Monster Hunter: World"
+    },
+    {
+      "source": "7 Days to Die",
+      "target": "ARK: Survival Ascended"
+    },
+    {
+      "source": "Terraria",
+      "target": "Factorio"
+    },
+    {
+      "source": "Terraria",
+      "target": "tModLoader"
+    },
+    {
+      "source": "Terraria",
+      "target": "Project Zomboid"
+    },
+    {
+      "source": "The Binding of Isaac: Rebirth",
+      "target": "Path of Exile 2"
+    },
+    {
+      "source": "The Binding of Isaac: Rebirth",
+      "target": "Stardew Valley"
+    },
+    {
+      "source": "The Binding of Isaac: Rebirth",
+      "target": "Banana"
+    },
+    {
+      "source": "Dead by Daylight",
+      "target": "HELLDIVERS\u2122 2"
+    },
+    {
+      "source": "Dead by Daylight",
+      "target": "PAYDAY 2"
+    },
+    {
+      "source": "Dead by Daylight",
+      "target": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+    },
+    {
+      "source": "Once Human",
+      "target": "Tom Clancy's Rainbow Six\u00ae Siege"
+    },
+    {
+      "source": "Once Human",
+      "target": "Counter-Strike 2"
+    },
+    {
+      "source": "Once Human",
+      "target": "Black Desert"
+    },
+    {
+      "source": "Mount & Blade II: Bannerlord",
+      "target": "Hogwarts Legacy"
+    },
+    {
+      "source": "Mount & Blade II: Bannerlord",
+      "target": "Monster Hunter: World"
+    },
+    {
+      "source": "Mount & Blade II: Bannerlord",
+      "target": "VRChat"
+    },
+    {
+      "source": "It Takes Two",
+      "target": "PUBG: BATTLEGROUNDS"
+    },
+    {
+      "source": "It Takes Two",
+      "target": "Delta Force"
+    },
+    {
+      "source": "It Takes Two",
+      "target": "ARK: Survival Ascended"
+    },
+    {
+      "source": "The Witcher 3: Wild Hunt",
+      "target": "Fallout 4"
+    },
+    {
+      "source": "The Witcher 3: Wild Hunt",
+      "target": "Hunt: Showdown 1896"
+    },
+    {
+      "source": "The Witcher 3: Wild Hunt",
+      "target": "The Elder Scrolls V: Skyrim Special Edition"
+    },
+    {
+      "source": "THRONE AND LIBERTY",
+      "target": "Lost Ark"
+    },
+    {
+      "source": "THRONE AND LIBERTY",
+      "target": "ELDEN RING"
+    },
+    {
+      "source": "THRONE AND LIBERTY",
+      "target": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+    },
+    {
+      "source": "Total War: WARHAMMER III",
+      "target": "Dota 2"
+    },
+    {
+      "source": "Total War: WARHAMMER III",
+      "target": "Counter-Strike 2"
+    },
+    {
+      "source": "Total War: WARHAMMER III",
+      "target": "Tom Clancy's Rainbow Six\u00ae Siege"
+    },
+    {
+      "source": "The Sims\u2122 4",
+      "target": "ARK: Survival Ascended"
+    },
+    {
+      "source": "The Sims\u2122 4",
+      "target": "Stardew Valley"
+    },
+    {
+      "source": "The Sims\u2122 4",
+      "target": "It Takes Two"
+    },
+    {
+      "source": "The Forest",
+      "target": "Sons Of The Forest"
+    },
+    {
+      "source": "The Forest",
+      "target": "ARK: Survival Ascended"
+    },
+    {
+      "source": "The Forest",
+      "target": "Project Zomboid"
+    },
+    {
+      "source": "Lost Ark",
+      "target": "THRONE AND LIBERTY"
+    },
+    {
+      "source": "Lost Ark",
+      "target": "Call of Duty\u00ae"
+    },
+    {
+      "source": "Lost Ark",
+      "target": "HELLDIVERS\u2122 2"
+    },
+    {
+      "source": "Factorio",
+      "target": "RimWorld"
+    },
+    {
+      "source": "Factorio",
+      "target": "Terraria"
+    },
+    {
+      "source": "Factorio",
+      "target": "tModLoader"
+    },
+    {
+      "source": "ARK: Survival Ascended",
+      "target": "ARK: Survival Evolved"
+    },
+    {
+      "source": "ARK: Survival Ascended",
+      "target": "Terraria"
+    },
+    {
+      "source": "ARK: Survival Ascended",
+      "target": "Forza Horizon 5"
+    },
+    {
+      "source": "Valheim",
+      "target": "Factorio"
+    },
+    {
+      "source": "Valheim",
+      "target": "Sons Of The Forest"
+    },
+    {
+      "source": "Valheim",
+      "target": "ARK: Survival Evolved"
+    },
+    {
+      "source": "NBA 2K25",
+      "target": "Marvel Rivals"
+    },
+    {
+      "source": "NBA 2K25",
+      "target": "Eternal Return"
+    },
+    {
+      "source": "NBA 2K25",
+      "target": "Farming Simulator 25"
+    },
+    {
+      "source": "Left 4 Dead 2",
+      "target": "STALCRAFT: X"
+    },
+    {
+      "source": "Left 4 Dead 2",
+      "target": "Team Fortress 2"
+    },
+    {
+      "source": "Left 4 Dead 2",
+      "target": "Red Dead Redemption 2"
+    },
+    {
+      "source": "The Elder Scrolls V: Skyrim Special Edition",
+      "target": "Fallout 4"
+    },
+    {
+      "source": "The Elder Scrolls V: Skyrim Special Edition",
+      "target": "ELDEN RING"
+    },
+    {
+      "source": "The Elder Scrolls V: Skyrim Special Edition",
+      "target": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+    },
+    {
+      "source": "PAYDAY 2",
+      "target": "Call of Duty\u00ae"
+    },
+    {
+      "source": "PAYDAY 2",
+      "target": "Team Fortress 2"
+    },
+    {
+      "source": "PAYDAY 2",
+      "target": "HELLDIVERS\u2122 2"
+    },
+    {
+      "source": "RimWorld",
+      "target": "Factorio"
+    },
+    {
+      "source": "RimWorld",
+      "target": "Terraria"
+    },
+    {
+      "source": "RimWorld",
+      "target": "Project Zomboid"
+    },
+    {
+      "source": "Balatro",
+      "target": "Factorio"
+    },
+    {
+      "source": "Balatro",
+      "target": "Slay the Spire"
+    },
+    {
+      "source": "Balatro",
+      "target": "Cities: Skylines"
+    },
+    {
+      "source": "Goose Goose Duck",
+      "target": "Path of Exile 2"
+    },
+    {
+      "source": "Goose Goose Duck",
+      "target": "Street Fighter\u2122 6"
+    },
+    {
+      "source": "Goose Goose Duck",
+      "target": "It Takes Two"
+    },
+    {
+      "source": "Garry's Mod",
+      "target": "Satisfactory"
+    },
+    {
+      "source": "Garry's Mod",
+      "target": "Farming Simulator 25"
+    },
+    {
+      "source": "Garry's Mod",
+      "target": "Sons Of The Forest"
+    },
+    {
+      "source": "Hogwarts Legacy",
+      "target": "Mount & Blade II: Bannerlord"
+    },
+    {
+      "source": "Hogwarts Legacy",
+      "target": "BeamNG.drive"
+    },
+    {
+      "source": "Hogwarts Legacy",
+      "target": "Monster Hunter: World"
+    },
+    {
+      "source": "Sons Of The Forest",
+      "target": "Rust"
+    },
+    {
+      "source": "Sons Of The Forest",
+      "target": "Satisfactory"
+    },
+    {
+      "source": "Sons Of The Forest",
+      "target": "The Forest"
+    },
+    {
+      "source": "Satisfactory",
+      "target": "Sons Of The Forest"
+    },
+    {
+      "source": "Satisfactory",
+      "target": "Rust"
+    },
+    {
+      "source": "Satisfactory",
+      "target": "ARK: Survival Evolved"
+    },
+    {
+      "source": "Overwatch\u00ae 2",
+      "target": "PUBG: BATTLEGROUNDS"
+    },
+    {
+      "source": "Overwatch\u00ae 2",
+      "target": "STALCRAFT: X"
+    },
+    {
+      "source": "Overwatch\u00ae 2",
+      "target": "Apex Legends\u2122"
+    },
+    {
+      "source": "Hunt: Showdown 1896",
+      "target": "The Witcher 3: Wild Hunt"
+    },
+    {
+      "source": "Hunt: Showdown 1896",
+      "target": "BeamNG.drive"
+    },
+    {
+      "source": "Hunt: Showdown 1896",
+      "target": "Grand Theft Auto V"
+    },
+    {
+      "source": "Age of Empires II: Definitive Edition",
+      "target": "Balatro"
+    },
+    {
+      "source": "Age of Empires II: Definitive Edition",
+      "target": "Slay the Spire"
+    },
+    {
+      "source": "Age of Empires II: Definitive Edition",
+      "target": "Sid Meier's Civilization\u00ae V"
+    },
+    {
+      "source": "Squad",
+      "target": "Counter-Strike 2"
+    },
+    {
+      "source": "Squad",
+      "target": "Tom Clancy's Rainbow Six\u00ae Siege"
+    },
+    {
+      "source": "Squad",
+      "target": "BeamNG.drive"
+    },
+    {
+      "source": "Street Fighter\u2122 6",
+      "target": "Black Desert"
+    },
+    {
+      "source": "Street Fighter\u2122 6",
+      "target": "Stardew Valley"
+    },
+    {
+      "source": "Street Fighter\u2122 6",
+      "target": "Hogwarts Legacy"
+    },
+    {
+      "source": "Crusader Kings III",
+      "target": "Europa Universalis IV"
+    },
+    {
+      "source": "Crusader Kings III",
+      "target": "Mount & Blade II: Bannerlord"
+    },
+    {
+      "source": "Crusader Kings III",
+      "target": "Palworld"
+    },
+    {
+      "source": "Black Desert",
+      "target": "Street Fighter\u2122 6"
+    },
+    {
+      "source": "Black Desert",
+      "target": "Hogwarts Legacy"
+    },
+    {
+      "source": "Black Desert",
+      "target": "Once Human"
+    },
+    {
+      "source": "SCUM",
+      "target": "War Thunder"
+    },
+    {
+      "source": "SCUM",
+      "target": "Russian Fishing 4"
+    },
+    {
+      "source": "SCUM",
+      "target": "Euro Truck Simulator 2"
+    },
+    {
+      "source": "Stellaris",
+      "target": "Cities: Skylines"
+    },
+    {
+      "source": "Stellaris",
+      "target": "Europa Universalis IV"
+    },
+    {
+      "source": "Stellaris",
+      "target": "Sid Meier's Civilization\u00ae V"
+    },
+    {
+      "source": "STALCRAFT: X",
+      "target": "Left 4 Dead 2"
+    },
+    {
+      "source": "STALCRAFT: X",
+      "target": "Overwatch\u00ae 2"
+    },
+    {
+      "source": "STALCRAFT: X",
+      "target": "Team Fortress 2"
+    },
+    {
+      "source": "Desktop Mate",
+      "target": "Wallpaper Engine"
+    },
+    {
+      "source": "Desktop Mate",
+      "target": "Soundpad"
+    },
+    {
+      "source": "Desktop Mate",
+      "target": "War Thunder"
+    },
+    {
+      "source": "Europa Universalis IV",
+      "target": "Stellaris"
+    },
+    {
+      "source": "Europa Universalis IV",
+      "target": "Crusader Kings III"
+    },
+    {
+      "source": "Europa Universalis IV",
+      "target": "Sid Meier's Civilization\u00ae V"
+    },
+    {
+      "source": "Limbus Company",
+      "target": "Balatro"
+    },
+    {
+      "source": "Limbus Company",
+      "target": "Yu-Gi-Oh! Master Duel"
+    },
+    {
+      "source": "Limbus Company",
+      "target": "Overwatch\u00ae 2"
+    },
+    {
+      "source": "Yu-Gi-Oh! Master Duel",
+      "target": "Limbus Company"
+    },
+    {
+      "source": "Yu-Gi-Oh! Master Duel",
+      "target": "Marvel Rivals"
+    },
+    {
+      "source": "Yu-Gi-Oh! Master Duel",
+      "target": "Hogwarts Legacy"
+    },
+    {
+      "source": "Russian Fishing 4",
+      "target": "Rust"
+    },
+    {
+      "source": "Russian Fishing 4",
+      "target": "ARK: Survival Ascended"
+    },
+    {
+      "source": "Russian Fishing 4",
+      "target": "Unturned"
+    },
+    {
+      "source": "Phasmophobia",
+      "target": "Farming Simulator 25"
+    },
+    {
+      "source": "Phasmophobia",
+      "target": "Overwatch\u00ae 2"
+    },
+    {
+      "source": "Phasmophobia",
+      "target": "Tom Clancy's Rainbow Six\u00ae Siege"
+    },
+    {
+      "source": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "target": "ELDEN RING"
+    },
+    {
+      "source": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "target": "Fallout 4"
+    },
+    {
+      "source": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "target": "Squad"
+    },
+    {
+      "source": "BeamNG.drive",
+      "target": "Euro Truck Simulator 2"
+    },
+    {
+      "source": "BeamNG.drive",
+      "target": "Hogwarts Legacy"
+    },
+    {
+      "source": "BeamNG.drive",
+      "target": "Forza Horizon 5"
+    },
+    {
+      "source": "Battlefield\u2122 V",
+      "target": "Forza Horizon 5"
+    },
+    {
+      "source": "Battlefield\u2122 V",
+      "target": "VRChat"
+    },
+    {
+      "source": "Battlefield\u2122 V",
+      "target": "Sons Of The Forest"
+    },
+    {
+      "source": "Eternal Return",
+      "target": "ARK: Survival Ascended"
+    },
+    {
+      "source": "Eternal Return",
+      "target": "Dota 2"
+    },
+    {
+      "source": "Eternal Return",
+      "target": "Marvel Rivals"
+    },
+    {
+      "source": "Lethal Company",
+      "target": "7 Days to Die"
+    },
+    {
+      "source": "Lethal Company",
+      "target": "PUBG: BATTLEGROUNDS"
+    },
+    {
+      "source": "Lethal Company",
+      "target": "Monster Hunter: World"
+    },
+    {
+      "source": "Destiny 2",
+      "target": "Russian Fishing 4"
+    },
+    {
+      "source": "Destiny 2",
+      "target": "STALCRAFT: X"
+    },
+    {
+      "source": "Destiny 2",
+      "target": "Overwatch\u00ae 2"
+    },
+    {
+      "source": "OBS Studio",
+      "target": "Forza Horizon 5"
+    },
+    {
+      "source": "OBS Studio",
+      "target": "VRChat"
+    },
+    {
+      "source": "OBS Studio",
+      "target": "Wallpaper Engine"
+    },
+    {
+      "source": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal",
+      "target": "Hearts of Iron IV"
+    },
+    {
+      "source": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal",
+      "target": "Mount & Blade II: Bannerlord"
+    },
+    {
+      "source": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal",
+      "target": "Hogwarts Legacy"
+    },
+    {
+      "source": "Soundpad",
+      "target": "Wallpaper Engine"
+    },
+    {
+      "source": "Soundpad",
+      "target": "OBS Studio"
+    },
+    {
+      "source": "Soundpad",
+      "target": "Crosshair X"
+    },
+    {
+      "source": "MIR4",
+      "target": "Tom Clancy's Rainbow Six\u00ae Siege"
+    },
+    {
+      "source": "MIR4",
+      "target": "Once Human"
+    },
+    {
+      "source": "MIR4",
+      "target": "Delta Force"
+    },
+    {
+      "source": "Forza Horizon 5",
+      "target": "Terraria"
+    },
+    {
+      "source": "Forza Horizon 5",
+      "target": "ARK: Survival Ascended"
+    },
+    {
+      "source": "Forza Horizon 5",
+      "target": "VRChat"
+    },
+    {
+      "source": "Slay the Spire",
+      "target": "Balatro"
+    },
+    {
+      "source": "Slay the Spire",
+      "target": "Cities: Skylines"
+    },
+    {
+      "source": "Slay the Spire",
+      "target": "RimWorld"
+    },
+    {
+      "source": "Sid Meier's Civilization\u00ae V",
+      "target": "Stellaris"
+    },
+    {
+      "source": "Sid Meier's Civilization\u00ae V",
+      "target": "Cities: Skylines"
+    },
+    {
+      "source": "Sid Meier's Civilization\u00ae V",
+      "target": "Europa Universalis IV"
+    },
+    {
+      "source": "Counter-Strike",
+      "target": "Team Fortress 2"
+    },
+    {
+      "source": "Counter-Strike",
+      "target": "PUBG: BATTLEGROUNDS"
+    },
+    {
+      "source": "Counter-Strike",
+      "target": "Squad"
+    },
+    {
+      "source": "Cities: Skylines",
+      "target": "Stellaris"
+    },
+    {
+      "source": "Cities: Skylines",
+      "target": "Balatro"
+    },
+    {
+      "source": "Cities: Skylines",
+      "target": "Sid Meier's Civilization\u00ae V"
+    },
+    {
+      "source": "Fallout 4",
+      "target": "ELDEN RING"
+    },
+    {
+      "source": "Fallout 4",
+      "target": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+    },
+    {
+      "source": "Fallout 4",
+      "target": "The Witcher 3: Wild Hunt"
+    },
+    {
+      "source": "Unturned",
+      "target": "Sons Of The Forest"
+    },
+    {
+      "source": "Unturned",
+      "target": "Rust"
+    },
+    {
+      "source": "Unturned",
+      "target": "Russian Fishing 4"
+    }
+  ]
+}
