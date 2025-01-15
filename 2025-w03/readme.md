@@ -14,3 +14,6 @@ To simplify the data, I created a similarity matrix based on shared tags and cre
 
 [View a live version](https://staroscik.com/vizes/steamgamesnetwork/)
 
+## snapshot
+
+![Network Image](https://github.com/AndrewStaroscik/makeovermonday/blob/main/2025-w03/networkDiagramImg.png)
